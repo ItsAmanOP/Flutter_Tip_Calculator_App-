@@ -1,7 +1,2 @@
-# Flutter Tip Calculator App 💲💱
-
-![Finished App](https://github.com/Edenik/Images/blob/master/Tip%20Calculator%20App.gif)
-
-
-Tutorial by Paulo Dichone - 
-https://www.udemy.com/course/flutter-dart-the-complete-flutter-app-development-course/
+# Flutter Tip Calculator App
+![Finished App](https://media.giphy.com/media/gSAZbOzReKss5TapFp/giphy.gif)
